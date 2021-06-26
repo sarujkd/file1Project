@@ -1,7 +1,7 @@
 package OnlineTest;
 
 public class ckeckdigits {
-
+//added comment here
 	public static void main(String[] args) {
 
 		String str1 = "5677df";
